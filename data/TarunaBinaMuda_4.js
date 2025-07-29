@@ -1,0 +1,1 @@
+var json_TarunaBinaMuda_4 = {"type":"FeatureCollection","name":"TarunaBinaMuda_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama Tempat":"Taruna Bina Muda","Nomor Narahubung":"083866541972 (Fajar)","x":112.56137,"y":-8.0699},"geometry":{"type":"Point","coordinates":[112.5613696,-8.0699017]}}]}

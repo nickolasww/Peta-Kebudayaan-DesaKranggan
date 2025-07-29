@@ -1,0 +1,1 @@
+var json_PrasetyaSingaMuda_11 = {"type":"FeatureCollection","name":"PrasetyaSingaMuda_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama Tempat":"Prasetya Singa Muda","Nomor Narahubung":" - ","x":112.55644,"y":-8.06553},"geometry":{"type":"Point","coordinates":[112.5564425,-8.0655344]}}]}

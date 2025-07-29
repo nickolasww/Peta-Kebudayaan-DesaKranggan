@@ -1,0 +1,1 @@
+var json_BalaiDesa_2 = {"type":"FeatureCollection","name":"BalaiDesa_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"No":"true","Nama Tempat":"Balai Desa Kranggan","Nomor Narahubung":" - ","x":112.56585,"y":-8.07862},"geometry":{"type":"Point","coordinates":[112.565848,-8.078618]}}]}

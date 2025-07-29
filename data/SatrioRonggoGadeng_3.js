@@ -1,0 +1,1 @@
+var json_SatrioRonggoGadeng_3 = {"type":"FeatureCollection","name":"SatrioRonggoGadeng_3","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama Tempat":"Satrio Ronggo Gadeng","Nomor Narahubung":" - ","x":112.56543,"y":-8.07981},"geometry":{"type":"Point","coordinates":[112.5654328,-8.0798089]}}]}

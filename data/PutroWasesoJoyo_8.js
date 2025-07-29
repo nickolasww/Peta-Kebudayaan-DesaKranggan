@@ -1,0 +1,1 @@
+var json_PutroWasesoJoyo_8 = {"type":"FeatureCollection","name":"PutroWasesoJoyo_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama Tempat":"Putro Waseso Joyo","Nomor Narahubung":"088226211611(Dwi Irawan)","x":112.57005,"y":-8.08034},"geometry":{"type":"Point","coordinates":[112.5700534,-8.080336]}}]}

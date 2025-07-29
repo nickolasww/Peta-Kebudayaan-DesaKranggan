@@ -1,0 +1,1 @@
+var json_ReogSingoDipoPuspito_9 = {"type":"FeatureCollection","name":"ReogSingoDipoPuspito_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama Tempat":"Reog Singo Dipo Puspito","Nomor Narahubung":" - ","x":112.57372,"y":-8.08104},"geometry":{"type":"Point","coordinates":[112.573717,-8.08104]}}]}

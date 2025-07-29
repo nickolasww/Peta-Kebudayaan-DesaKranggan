@@ -1,0 +1,1 @@
+var json_BoloDewo_12 = {"type":"FeatureCollection","name":"BoloDewo_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Nama Tempat":"Bolo Dewo","Nomor Narahubung":"081332005763 (Agus Setiyawan)","x":112.57381,"y":-8.07961},"geometry":{"type":"Point","coordinates":[112.573808,-8.079608]}}]}
